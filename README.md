@@ -3,6 +3,7 @@ Serverless Face‑Recognition Pipeline
 A fully event‑driven face‑recognition‑as‑a‑service that ingests video frames from IoT cameras, detects faces, and returns identities — all without managing servers.
 
 🗺 Architecture
+<img src="architecture.png">
 
 AWS Lambda (Docker/ECR)
 
